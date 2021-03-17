@@ -10,7 +10,7 @@ body{
   background-size: cover;
 }
 a:visited {
-  color: black;
+  color: blue;
   background-color: transparent;
   text-decoration: none;
 }
