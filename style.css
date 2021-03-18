@@ -1,0 +1,98 @@
+body{
+  color:white;
+  text-decoration-color: white;
+  margin: 0px;
+  padding: 0px;
+  font-family: Bahnschrift,sans-serif;
+  background-image: url(background.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  border: 2px;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  color: black;
+}
+
+tr {
+  background-color: white;
+}
+
+p{
+}
+
+#home{
+  margin-left: 10px;
+}
+#menu li {
+  display: inline-block;
+  float: left;
+}
+
+#menu {
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  display: inline-grid;
+  margin-left: -5px;
+  background-color: black;
+}
+
+#menu a {
+  display: inline;
+  color: white;
+  text-decoration: none;
+  padding: 50px;
+}
+
+
+#menu a:hover {
+  background-color: white;
+  color: black;
+}
+
+#img li {
+  display: inline-block;
+  float: left;
+}
+
+#img {
+  margin: -90px;
+  padding: 45px;
+  overflow: hidden;
+  display: inline-grid;
+  margin-left: -80px;
+  margin-right: -60px;
+}
+
+#img a {
+  display: inline;
+  color: white;
+  text-decoration: none;
+  padding: 50px;
+}
+
+
+#img a:hover {
+  background-color: white;
+  color: black;
+}
+
+#games{
+  margin-top: 250px;
+}
